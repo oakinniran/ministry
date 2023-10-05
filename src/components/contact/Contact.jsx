@@ -7,10 +7,8 @@ const Contact = () => {
       <section className="py-16 bg-gray-800 text-gray-50">
         <div className="grid max-w-6xl grid-cols-1 px-6 mx-auto lg:px-8 md:grid-cols-2 md:divide-x">
           <div className="py-6 md:py-0 md:px-6">
-            <h1 className="text-4xl font-bold">Get in touch</h1>
-            <p className="pt-2 pb-4">
-              Fill in the form to start a conversation or call us
-            </p>
+            <h1 className="text-4xl font-bold pb-10">Get in touch</h1>
+
             <div className="space-y-4">
               <p className="flex items-center">
                 <svg
@@ -37,15 +35,19 @@ const Contact = () => {
               </p>
             </div>
           </div>
+
           <form
             novalidate=""
             className="flex flex-col py-6 space-y-6 md:py-0 md:px-6"
           >
+            <p className="pt-2 pb-4">
+              Fill in the form to start a conversation or call us
+            </p>
             <label className="block">
               <span className="mb-1">Full name</span>
               <input
                 type="text"
-                placeholder="Ministry"
+                placeholder="Fullname"
                 className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri bg-gray-800 outline-none"
               />
             </label>
@@ -53,7 +55,7 @@ const Contact = () => {
               <span className="mb-1">Email address</span>
               <input
                 type="email"
-                placeholder="mail@ministry.com"
+                placeholder="E.g@mail.com"
                 className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri bg-gray-800 outline-none"
               />
             </label>

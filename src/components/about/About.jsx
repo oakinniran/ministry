@@ -34,9 +34,10 @@ const About = () => {
                   />
                 </svg>
               </div>
+              <h3 className="my-3 text-3xl font-semibold">The Goals </h3>
 
               <p className="mb-2 pt-3 text-sm text-gray-900">
-                The goals To reach the unreached for Christ Jesus.
+                To reach the unreached for Christ Jesus.
               </p>
             </div>
             <div className="max-w-md">
@@ -55,10 +56,10 @@ const About = () => {
                   />
                 </svg>
               </div>
+              <h3 className="my-3 text-3xl font-semibold">The Mission </h3>
               <p className="mb-2 pt-3 text-sm text-gray-900">
-                The mission To help the less privileged one through giving to
-                them in cash and in kind,bringing them to the knowledge of
-                Christ.
+                To help the less privileged one through giving to them in cash
+                and in kind,bringing them to the knowledge of Christ.
               </p>
             </div>
             <div className="max-w-md">
@@ -77,8 +78,9 @@ const About = () => {
                   />
                 </svg>
               </div>
+              <h3 className="my-3 text-3xl font-semibold">The Vision</h3>
               <p className="mb-2 pt-3 text-sm text-gray-900">
-                The vision To gain the world for Christ.
+                To gain the world for Christ.
               </p>
             </div>
             <div className="max-w-md">
@@ -97,9 +99,10 @@ const About = () => {
                   />
                 </svg>
               </div>
+              <h3 className="my-3 text-3xl font-semibold">Places Covered</h3>
               <p className="mb-2 pt-3 text-sm text-gray-900">
-                Places covered We have covered more than two hundred villages
-                (200)ranging from Osun,Kwara, Oyo etc.
+                We have covered more than two hundred villages (200)ranging from
+                Osun,Kwara, Oyo etc.
               </p>
             </div>
           </div>
@@ -121,53 +124,51 @@ const About = () => {
                 />
               </svg>
             </div>
+            <h3 className="my-3 text-3xl font-semibold">Donation</h3>
             <nav class="list-none mb-10">
               <li>
                 <a class="text-gray-600 hover:text-gray-800">1. Bible</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">2. Donation </a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">3. Motorcycle</a>
+                <a class="text-gray-600 hover:text-gray-800">2. Motorcycle </a>
               </li>
               <li>
                 <a class="text-gray-600 hover:text-gray-800">
-                  4. Buses for outreach
+                  3. Buses for outreach
                 </a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">5. Generator</a>
+                <a class="text-gray-600 hover:text-gray-800">4. Generator</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">6. Video scope</a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">
-                  7. use or unused clothes
-                </a>
+                <a class="text-gray-600 hover:text-gray-800">5. Video scope</a>
               </li>
               <li>
                 <a class="text-gray-600 hover:text-gray-800">
-                  8. Shoes and bag for the privileges ones
-                </a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">9. Food items</a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">
-                  10. Drugs for medical outreach
+                  6. use or unused clothes
                 </a>
               </li>
               <li>
                 <a class="text-gray-600 hover:text-gray-800">
-                  11. Roofing sheets
+                  7. Shoes and bag for the privileges ones
+                </a>
+              </li>
+              <li>
+                <a class="text-gray-600 hover:text-gray-800">8. Food items</a>
+              </li>
+              <li>
+                <a class="text-gray-600 hover:text-gray-800">
+                  9. Drugs for medical outreach
                 </a>
               </li>
               <li>
                 <a class="text-gray-600 hover:text-gray-800">
-                  12. Educational material books
+                  10. Roofing sheets
+                </a>
+              </li>
+              <li>
+                <a class="text-gray-600 hover:text-gray-800">
+                  11. Educational material books
                 </a>
               </li>
             </nav>

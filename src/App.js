@@ -1,7 +1,7 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import BackData from "./components/Application/BackData";
-import Contact from "./components/cantact/Contact";
+import Contact from "./components/contact/Contact";
 import About from "./components/about/About";
 import Footer from "./components/footer/Footer";
 import Navbar from "./components/nav/Navbar";
