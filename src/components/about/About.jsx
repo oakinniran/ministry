@@ -1,4 +1,7 @@
 import React from "react";
+import one from "../Image/one.png";
+import on from "../Image/on.png";
+import two from "../Image/two.png";
 
 const About = () => {
   return (
@@ -20,6 +23,7 @@ const About = () => {
           <div className="grid gap-10 md:gap-8 sm:p-3 md:grid-cols-2 lg:px-12 xl:px-32">
             <div className="max-w-md">
               <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+                <img src={two} />
                 <svg
                   className="w-12 h-12 text-deep-purple-accent-400"
                   stroke="currentColor"
@@ -42,6 +46,7 @@ const About = () => {
             </div>
             <div className="max-w-md">
               <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+                <img src={on} />
                 <svg
                   className="w-12 h-12 text-deep-purple-accent-400"
                   stroke="currentColor"
@@ -64,6 +69,7 @@ const About = () => {
             </div>
             <div className="max-w-md">
               <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+                <img src={one} />
                 <svg
                   className="w-12 h-12 text-deep-purple-accent-400"
                   stroke="currentColor"

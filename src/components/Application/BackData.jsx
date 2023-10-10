@@ -54,6 +54,13 @@ const BackData = () => {
                   them in cash and in kind,bringing them to the knowledge of
                   Christ.
                 </p>
+                <h1 className="text-5xl font-bold leadi sm:text-6xl uppercase">
+                  Vi
+                  <span className="text-violet-400">si</span>on
+                </h1>
+                <p className="mt-6 mb-8 text-lg sm:mb-12">
+                  To gain the world for Christ.
+                </p>
               </div>
             </div>
           </div>
