@@ -33,6 +33,10 @@ const Contact = () => {
                 </svg>
                 <span>Godunlimitedsuccessoutreach@gmail.com</span>
               </p>
+              <p className="flex items-center">
+               For Donation:  Please reach out to our bank<br/>
+                <span>God Unlimited Success outreach, 1229069841, Zenith Bank</span>
+              </p>
             </div>
           </div>
 
