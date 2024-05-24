@@ -62,7 +62,7 @@ const Navbar = () => {
                   to="/about"
                   className="flex items-center px-4 -mb-1 border-b-2 border-transparent hover:border-violet-400"
                 >
-                  Aboust Us
+                  About Us
                 </Link>
               </li>
               <li className="flex">

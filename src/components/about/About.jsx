@@ -21,6 +21,7 @@ const About = () => {
             from there to others villages.
           </h4>
           <div className="grid gap-10 md:gap-8 sm:p-3 md:grid-cols-2 lg:px-12 xl:px-32">
+            <br/>
             <div className="max-w-md">
               <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
                 <img src={two} />
@@ -40,7 +41,7 @@ const About = () => {
               </div>
               <h3 className="my-3 text-3xl font-semibold">The Goals </h3>
 
-              <p className="mb-2 pt-3 text-sm text-gray-900">
+              <p className="mb-2 pt-3 text-sm text-white-900">
                 To reach the unreached for Christ Jesus.
               </p>
             </div>
@@ -62,7 +63,7 @@ const About = () => {
                 </svg>
               </div>
               <h3 className="my-3 text-3xl font-semibold">The Mission </h3>
-              <p className="mb-2 pt-3 text-sm text-gray-900">
+              <p className="mb-2 pt-3 text-sm text-white-900">
                 To help the less privileged one through giving to them in cash
                 and in kind,bringing them to the knowledge of Christ.
               </p>
@@ -85,7 +86,7 @@ const About = () => {
                 </svg>
               </div>
               <h3 className="my-3 text-3xl font-semibold">The Vision</h3>
-              <p className="mb-2 pt-3 text-sm text-gray-900">
+              <p className="mb-2 pt-3 text-sm text-white-900">
                 To gain the world for Christ.
               </p>
             </div>
